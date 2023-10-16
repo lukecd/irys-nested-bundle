@@ -1,6 +1,6 @@
 # About
 
-This is an example repo showing how to use Irys to upload multiple files with a single wallet interaction.
+This is an example NextJS project showing how to use Irys to upload multiple files with a single wallet interaction.
 
 > Most users will not need this code as it's much easier to use [`irys.uploadFolder()`](https://docs.irys.xyz/developer-docs/irys-sdk/api/uploadFolder) instead.
 
